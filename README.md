@@ -6,6 +6,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/HarithaKongi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/HarithaKongi/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/HarithaKongi/LeetCode/tree/main/0068-text-justification/) | Hard |
@@ -39,6 +40,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HarithaKongi/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -102,6 +104,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/HarithaKongi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -119,4 +122,16 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarithaKongi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
