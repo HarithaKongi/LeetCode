@@ -9,6 +9,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0041-first-missing-positive](https://github.com/HarithaKongi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/HarithaKongi/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/HarithaKongi/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarithaKongi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HarithaKongi/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HarithaKongi/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -104,4 +105,16 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/HarithaKongi/LeetCode/tree/main/0068-text-justification/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarithaKongi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarithaKongi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarithaKongi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
