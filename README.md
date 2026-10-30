@@ -14,6 +14,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/HarithaKongi/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0441-arranging-coins](https://github.com/HarithaKongi/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0441-arranging-coins](https://github.com/HarithaKongi/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 <!---LeetCode Topics End-->
