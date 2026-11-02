@@ -13,6 +13,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0084-largest-rectangle-in-histogram](https://github.com/HarithaKongi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0135-candy](https://github.com/HarithaKongi/LeetCode/tree/main/0135-candy/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarithaKongi/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -24,6 +25,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0066-plus-one](https://github.com/HarithaKongi/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0441-arranging-coins](https://github.com/HarithaKongi/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarithaKongi/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
