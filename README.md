@@ -16,6 +16,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HarithaKongi/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HarithaKongi/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -26,6 +27,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0441-arranging-coins](https://github.com/HarithaKongi/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarithaKongi/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +41,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0010-regular-expression-matching](https://github.com/HarithaKongi/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0087-scramble-string](https://github.com/HarithaKongi/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HarithaKongi/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bit Manipulation
@@ -90,6 +93,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarithaKongi/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -121,6 +125,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HarithaKongi/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/HarithaKongi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +162,5 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HarithaKongi/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 <!---LeetCode Topics End-->
