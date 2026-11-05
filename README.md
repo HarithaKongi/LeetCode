@@ -15,6 +15,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarithaKongi/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -109,6 +110,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
@@ -119,6 +121,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/HarithaKongi/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +166,8 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HarithaKongi/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
