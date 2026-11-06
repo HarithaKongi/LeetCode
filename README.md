@@ -18,6 +18,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HarithaKongi/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -115,6 +116,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +133,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/HarithaKongi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/HarithaKongi/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -168,6 +171,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HarithaKongi/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
