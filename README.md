@@ -12,6 +12,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0068-text-justification](https://github.com/HarithaKongi/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarithaKongi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0135-candy](https://github.com/HarithaKongi/LeetCode/tree/main/0135-candy/) | Hard |
+| [0217-contains-duplicate](https://github.com/HarithaKongi/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarithaKongi/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -109,6 +110,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/HarithaKongi/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
@@ -128,6 +130,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HarithaKongi/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/HarithaKongi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0217-contains-duplicate](https://github.com/HarithaKongi/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
