@@ -18,6 +18,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1267-count-servers-that-communicate](https://github.com/HarithaKongi/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarithaKongi/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/HarithaKongi/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -100,6 +101,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarithaKongi/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/HarithaKongi/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarithaKongi/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -145,6 +147,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/HarithaKongi/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarithaKongi/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +194,8 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/HarithaKongi/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarithaKongi/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 <!---LeetCode Topics End-->
