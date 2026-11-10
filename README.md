@@ -82,10 +82,12 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/HarithaKongi/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HarithaKongi/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/HarithaKongi/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/HarithaKongi/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HarithaKongi/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Indexed Tree
@@ -191,6 +193,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/HarithaKongi/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/HarithaKongi/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -200,4 +203,8 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarithaKongi/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/HarithaKongi/LeetCode/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
