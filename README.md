@@ -8,6 +8,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/HarithaKongi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0048-rotate-image](https://github.com/HarithaKongi/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/HarithaKongi/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/HarithaKongi/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarithaKongi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -30,6 +31,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/HarithaKongi/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/HarithaKongi/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/HarithaKongi/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0441-arranging-coins](https://github.com/HarithaKongi/LeetCode/tree/main/0441-arranging-coins/) | Easy |
@@ -62,6 +64,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/HarithaKongi/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/HarithaKongi/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/HarithaKongi/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
