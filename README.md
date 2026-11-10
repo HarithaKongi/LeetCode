@@ -24,6 +24,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/HarithaKongi/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HarithaKongi/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HarithaKongi/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
@@ -49,6 +50,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/HarithaKongi/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HarithaKongi/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
