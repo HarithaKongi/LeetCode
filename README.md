@@ -38,6 +38,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarithaKongi/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/HarithaKongi/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0135-candy](https://github.com/HarithaKongi/LeetCode/tree/main/0135-candy/) | Hard |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/HarithaKongi/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
