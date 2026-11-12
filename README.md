@@ -23,6 +23,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/HarithaKongi/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/HarithaKongi/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
