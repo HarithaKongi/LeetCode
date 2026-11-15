@@ -19,6 +19,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1267-count-servers-that-communicate](https://github.com/HarithaKongi/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarithaKongi/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarithaKongi/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/HarithaKongi/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -40,6 +41,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0441-arranging-coins](https://github.com/HarithaKongi/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarithaKongi/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarithaKongi/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarithaKongi/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/HarithaKongi/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Database
@@ -55,6 +57,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0010-regular-expression-matching](https://github.com/HarithaKongi/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0087-scramble-string](https://github.com/HarithaKongi/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarithaKongi/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/HarithaKongi/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -238,5 +241,6 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarithaKongi/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
