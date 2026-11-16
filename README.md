@@ -84,6 +84,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0068-text-justification](https://github.com/HarithaKongi/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0087-scramble-string](https://github.com/HarithaKongi/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HarithaKongi/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HarithaKongi/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarithaKongi/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Divide and Conquer
@@ -166,6 +167,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | ------- | ------- |
 | [0068-text-justification](https://github.com/HarithaKongi/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarithaKongi/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HarithaKongi/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
