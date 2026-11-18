@@ -87,6 +87,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HarithaKongi/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/HarithaKongi/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HarithaKongi/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HarithaKongi/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarithaKongi/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Divide and Conquer
