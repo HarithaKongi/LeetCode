@@ -23,6 +23,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarithaKongi/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/HarithaKongi/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HarithaKongi/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -135,6 +136,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0135-candy](https://github.com/HarithaKongi/LeetCode/tree/main/0135-candy/) | Hard |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HarithaKongi/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/HarithaKongi/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HarithaKongi/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
