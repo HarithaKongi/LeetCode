@@ -86,6 +86,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0068-text-justification](https://github.com/HarithaKongi/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0087-scramble-string](https://github.com/HarithaKongi/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HarithaKongi/LeetCode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/HarithaKongi/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HarithaKongi/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/HarithaKongi/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HarithaKongi/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
