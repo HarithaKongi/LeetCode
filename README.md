@@ -26,6 +26,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1882-process-tasks-using-servers](https://github.com/HarithaKongi/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/HarithaKongi/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/HarithaKongi/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HarithaKongi/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -62,6 +63,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1301-number-of-paths-with-max-score](https://github.com/HarithaKongi/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarithaKongi/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/HarithaKongi/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/HarithaKongi/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HarithaKongi/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/HarithaKongi/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -151,6 +153,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [1833-maximum-ice-cream-bars](https://github.com/HarithaKongi/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/HarithaKongi/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/HarithaKongi/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
