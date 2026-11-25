@@ -36,6 +36,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [3693-climbing-stairs-ii](https://github.com/HarithaKongi/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HarithaKongi/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HarithaKongi/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/HarithaKongi/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HarithaKongi/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | [0217-contains-duplicate](https://github.com/HarithaKongi/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/HarithaKongi/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HarithaKongi/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,4 +281,16 @@ Documenting my problem-solving journey through Data Structures and Algorithms us
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HarithaKongi/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/HarithaKongi/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
